@@ -1,2 +1,1 @@
-# mnanri_ac
-for atcoder
+## Motivate AtCoder of Mine
